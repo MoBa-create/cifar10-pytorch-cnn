@@ -1,0 +1,15 @@
+# PyTorch Data Directory
+data/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments & IDEs
+.vscode/
+.idea/
+venv/
+env/
+*.log
