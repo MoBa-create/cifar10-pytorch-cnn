@@ -34,7 +34,7 @@ An end-to-end PyTorch implementation of Convolutional Neural Networks (CNN) for 
 ### 1. Installation
 Clone the repository and install required packages:
 ```bash
-git clone https://github.com/MoBa-create/cifar10-cnn-classifier.git
+git clone https://github.com/MoBa-create/cifar10-pytorch-cnn/tree/main
 cd cifar10-cnn-classifier
 pip install -r requirements.txt
 
